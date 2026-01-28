@@ -1,4 +1,4 @@
-# 👩‍💻 Bruna Lorly | Portfólio de Análise de Dados
+# 👩‍💻 Bruna Nascimento | Portfólio de Análise de Dados
 
 Bem-vindo(a) ao meu portfólio!  
 Aqui compartilho projetos práticos desenvolvidos com foco em **Análise de Dados**, **Visualização** e **Geração de Insights**, utilizando ferramentas amplamente usadas no mercado.
