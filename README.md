@@ -8,7 +8,7 @@ Sou estudante da área de tecnologia e estou em constante aprendizado, aplicando
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+- 🎓 Estudante de Engenharia de Software
 - 📊 Interesse em Análise de Dados, Business Intelligence e Data Analytics  
 - 💡 Foco em transformar dados em insights que apoiem a tomada de decisão  
 - 📚 Em busca de oportunidade de **estágio / posição júnior**
