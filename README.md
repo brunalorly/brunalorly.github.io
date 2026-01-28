@@ -62,9 +62,8 @@ Dashboard interativo com KPIs e filtros para análise de desempenho de vendas.
 ---
 
 ## 📬 Contato
-- 💼 LinkedIn: *(adicione seu link aqui)*  
-- 📧 E-mail: *(adicione seu e-mail aqui)*  
-
+- 💼 LinkedIn:https://www.linkedin.com/in/brunanascimentopereira/
+- 📧 E-mail:bruna.lorly@hotmail.com
 ---
 
 📌 *Portfólio em constante evolução, desenvolvido para fins de aprendizado e apresentação profissional.*
